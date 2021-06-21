@@ -1,11 +1,14 @@
-Project Goal. 
+Notes:
 
-Create a CRUD app with react tsc express graphql mysql
-
-
-
-GraphQL Scehma
+GraphQL Scehma:
 
 Is how the requests will be organized. Which requests connects to this and that, which is inside what, which is being mutated. 
 
 1. You create a schema, then include different smaller schemas in. 
+
+
+Entities:
+The data table structure definition. This will automatically update in respective database.
+
+Resolvers:
+Where you write the requests.
