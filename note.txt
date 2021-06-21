@@ -1,0 +1,11 @@
+Project Goal. 
+
+Create a CRUD app with react tsc express graphql mysql
+
+
+
+GraphQL Scehma
+
+Is how the requests will be organized. Which requests connects to this and that, which is inside what, which is being mutated. 
+
+1. You create a schema, then include different smaller schemas in. 
